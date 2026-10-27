@@ -2,7 +2,7 @@
 
 **Cybersecurity & Technology Solutions**
 
-NeverOff Technology is a technology and cybersecurity company focused on protecting modern organizations through advanced security operations, threat detection, cyber defense, cloud security, secure infrastructure, and specialized engineering services.
+NeverOff Technology is a technology and cybersecurity company since 2009, focused on protecting modern organizations through advanced security operations, threat detection, cyber defense, cloud security, secure infrastructure, Business Continuity/Disaster Recovery (BCDR) and specialized engineering services.
 
 We work across complex enterprise environments, helping organizations strengthen their security posture, improve visibility, detect emerging threats, and respond effectively to cybersecurity incidents.
 
